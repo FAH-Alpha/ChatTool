@@ -16,5 +16,9 @@ ChatTool -- Simple Tools For Computer Lessons!
 #
 _不过最好还是不要在课上摸鱼_
 # 
+  如果被Smart Screen阻止运行，请点击“详细信息”，再点击“仍要运行”，程序即可开始运行。
+  
+⚠不要在程序运行时关闭那个cmd窗口，否则程序将停止运行！
+# 
 友情链接：
 击杀主流机房程序(极域、jfglzs) >> https://github.com/wzjWilliam/T4CLLibrary
