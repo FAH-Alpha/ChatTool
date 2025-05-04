@@ -17,4 +17,4 @@ ChatTool -- Simple Tools For Computer Lessons!
 4.开始聊天！（输入框出现灰色字影响发送的问题，只要把鼠标在其他地方点一下再点回去就能解决了）
 
 友情链接：
-解禁主流机房程序(极域、jfglzs) >> https://github.com/wzjWilliam/T4CLLibrary
+击杀主流机房程序(极域、jfglzs) >> https://github.com/wzjWilliam/T4CLLibrary
