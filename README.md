@@ -1,5 +1,5 @@
-# ST4CL
-Simple Tools For Computer Lessons!
+# ChatTool_ST4CL
+ChatTool -- Simple Tools For Computer Lessons!
 为信息课而备，简单的聊天器！
 
 介绍：
